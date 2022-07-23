@@ -1,0 +1,49 @@
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    margin: 10px;
+}
+
+h3 {
+    margin: 10px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1200px;
+    padding: 20px;
+}
+
+/* Header */
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+}.header {
+    display: flex;
+    justify-content: space-between;
+}header {
+    width: 100%;
+    background-color: grey;
+}
+/* Section 2 */
+/* Some code */
+
+#fff33 {
+    color: red;
+}
+
+.photo {
+    padding: 100px;
+    border: 1px solid black;
+    border-radius: 15px;
+
+}
